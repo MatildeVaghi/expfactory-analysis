@@ -1,0 +1,6 @@
+*.pyc
+*.fuse*
+build
+dist
+doc
+expanalysis.egg-info

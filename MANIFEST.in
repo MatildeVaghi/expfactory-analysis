@@ -1,0 +1,7 @@
+recursive-include expanalysis/experiments *
+recursive-include expanalysis/tests/data *
+recursive-include expanalysis/tests *
+
+recursive-include expanalysis_mv/experiments *
+recursive-include expanalysis_mv/tests/data *
+recursive-include expanalysis_mv/tests *
