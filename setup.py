@@ -31,7 +31,7 @@ setup(
     install_requires = [
                         'kabuki',
                         'hddm',
-                        'numpy==1.11.1',
+                        'numpy==1.21.0',
                         'numexpr',
                         'pymc',
                         'scipy',
